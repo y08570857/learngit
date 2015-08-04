@@ -4,4 +4,4 @@ git is free software distributed under GPL
 
 git has a mutable index called stage
 
-git tracks changes
+git tracks changes of file
